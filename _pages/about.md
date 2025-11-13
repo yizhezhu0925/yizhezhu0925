@@ -17,9 +17,9 @@ I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/resear
 </p>
 
 ## Research Interests
-- Equivariant and structure-aware policy learning
-- Data-efficient robot learning
-- Closed-loop control for contact-rich manipulation
+- Robot manipulation combining imitation learning and reinforcement learning
+- Human-in-the-loop continual learning for robotics
+- Tactile sensing and closed-loop control for contact-rich tasks
 
 ## News
 <style>
