@@ -132,6 +132,29 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Selected Publications
 <div class="project-img-container">
+  <img src="{{ 'images/equitac.png' | relative_url }}" alt="Residual Rotation Correction using Tactile Equivariance">
+</div>
+<p>
+  <a href="https://arxiv.org/pdf/2511.07381v2" style="text-decoration: none; color: inherit;">
+    <strong>Residual Rotation Correction using Tactile Equivariance</strong>
+  </a><br />
+  <strong>Yizhe Zhu</strong>, Zhang Ye, Boce Hu, Haibo Zhao, Yu Qi, Dian Wang, Robert Platt<br />
+  <em>IEEE Robotics and Automation Letters (RA-L) under review, 2025</em><br />
+  <button class="button-cta" onclick="window.open('https://yizhezhu0925.github.io/equitac.github.io/','_blank')">Project</button>
+  <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2511.07381v2','_blank')">PDF</button>
+</p>
+<div style="clear: both;"></div>
+
+
+<div class="project-img-container">
+  <img src="{{ 'images/GSL.mp4' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
+</div>
+
+
+
+
+
+<div class="project-img-container">
   <img src="{{ 'images/GSL.mp4' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
 </div>
 <p>
