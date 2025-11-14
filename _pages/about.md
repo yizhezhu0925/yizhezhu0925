@@ -130,7 +130,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <a id="news-more" href="javascript:void(0)">more ▾</a>  -->
 
 ## Selected Publications
-<div class="project-img-container">
+<div class="project-img-container" style="width: 180px;">
   <img src="{{ 'images/equitac.png' | relative_url }}" alt="Residual Rotation Correction using Tactile Equivariance">
 </div>
 <p>
