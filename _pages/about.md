@@ -147,15 +147,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <div class="project-img-container">
-  <img src="{{ 'images/GSL.mp4' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
-</div>
-
-
-
-
-
-<div class="project-img-container">
-  <img src="{{ 'images/GSL.mp4' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
+  <img src="{{ 'images/GSL.png' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
 </div>
 <p>
   <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;">
