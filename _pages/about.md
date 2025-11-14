@@ -23,7 +23,7 @@ I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/resear
 - Tactile sensing and closed-loop control for contact-rich tasks
 
 ## News
-<!-- <style>
+<style>
 #news-list {
   margin-bottom: 0;
 }
@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-<ul id="news-list">
+<!-- <ul id="news-list">
   <li>07/2025: Released the <em>EquAct</em> preprint on SE(3)-equivariant multi-task transformers for manipulation.</li>
   <li>05/2025: <em>Hierarchical Equivariant Policy via Frame Transfer</em> was accepted to ICML 2025.</li>
   <li>03/2025: Add a recent highlight from your lab or collaboration.</li>
@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <li>08/2024: Note an internship, visit, or outreach activity.</li>
   <li>05/2024: Include another update to display when “more” is clicked.</li>
 </ul>
-<a id="news-more" href="javascript:void(0)">more ▾</a> -->
+<a id="news-more" href="javascript:void(0)">more ▾</a>  -->
 
 ## Selected Publications
 <div class="project-img-container">
