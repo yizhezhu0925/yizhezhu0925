@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div style="clear: both;"></div>
 
 
-<div class="project-img-container">
+<div class="project-img-container" style="width: 180px;">
   <img src="{{ 'images/GSL.png' | relative_url }}" alt="Generalizable Hierarchical Skill Learning">
 </div>
 <p>
