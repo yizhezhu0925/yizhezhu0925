@@ -14,6 +14,7 @@ I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/resear
   <a href="mailto:zhu.yizhe@northeastern.edu"><i class="far fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> /
   <a href="https://scholar.google.com/citations?user=MhSyhtwAAAAJ&amp;hl"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a> /
   <a href="https://github.com/yizhezhu0925"><i class="fab fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a>
+  <a href="/files/CV.pdf"><i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV</a>
 </p>
 
 ## Research Interests
