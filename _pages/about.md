@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong>
   </a><br />
    Haibo Zhao, Yu Qi, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
-  <em>RAL under review</em><br />
+  <em>IEEE Robotics and Automation Letters (RA-L) under review</em><br />
   <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
 </p>
