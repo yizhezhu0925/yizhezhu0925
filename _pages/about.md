@@ -19,6 +19,7 @@ I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/resear
 ## Research Interests
 - Robot manipulation combining imitation learning and reinforcement learning
 - Human-in-the-loop continual learning for robotics
+- Mobile Manipulation
 - Tactile sensing and closed-loop control for contact-rich tasks
 
 ## News
