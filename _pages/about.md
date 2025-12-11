@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>Residual Rotation Correction using Tactile Equivariance</strong>
   </a><br />
   <strong>Yizhe Zhu</strong>, Zhang Ye, Boce Hu, Haibo Zhao, Yu Qi, Dian Wang, Robert Platt<br />
-  <em>IEEE Robotics and Automation Letters (RA-L) under review, 2025</em><br />
+  <em>under review, 2025</em><br />
   <button class="button-cta" onclick="window.open('https://yizhezhu0925.github.io/equitac.github.io/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2511.07381v2','_blank')">PDF</button>
 </p>
@@ -154,7 +154,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong>
   </a><br />
    Haibo Zhao, Yu Qi, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
-  <em>IEEE Robotics and Automation Letters (RA-L) under review</em><br />
+  <em>(RA-L) under review</em><br />
   <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
 </p>
@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities</strong>
   </a><br />
   Yu Qi, Haibo Zhao, Ziyu Guo, Siyuan Ma, Ziyan Chen, Yaokun Han, Renrui Zhang, Zitiantao Lin, Shiji Xin, Yijian Huang, Kai Cheng, Peiheng Wang, Jiazheng Liu, Jiayi Zhang, <strong>Yizhe Zhu</strong>, Wenqing Wang, Yiran Qin, Xupeng Zhu, Haojie Huang, Lawson L.S. Wong<br />
-  <em>ICLR under review, 2026</em><br />
+  <em>under review, 2026</em><br />
   <button class="button-cta" onclick="window.open('https://bear-official66.github.io/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.08759','_blank')">PDF</button>
 </p>
@@ -183,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation</strong>
   </a><br />
   Xupeng Zhu,<strong>Yizhe Zhu*</strong>, Yu Qi*, Robin Walters, Robert Platt<br />
-  <em>ICLR under review, 2026</em><br />
+  <em>under review, 2026</em><br />
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2505.21351v1','_blank')">PDF</button>
 </p>
 <div style="clear: both;"></div>
