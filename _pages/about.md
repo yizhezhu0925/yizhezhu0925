@@ -183,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation</strong>
   </a><br />
   Xupeng Zhu,<strong>Yizhe Zhu*</strong>, Yu Qi*, Robin Walters, Robert Platt<br />
-  <em>under review, 2026</em><br />
+  <em>ICLR, 2026</em><br />
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2505.21351v1','_blank')">PDF</button>
 </p>
 <div style="clear: both;"></div>
