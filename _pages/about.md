@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>Residual Rotation Correction using Tactile Equivariance</strong>
   </a><br />
   <strong>Yizhe Zhu</strong>, Zhang Ye, Boce Hu, Haibo Zhao, Yu Qi, Dian Wang, Robert Platt<br />
-  <em>under review, 2025</em><br />
+  <em>under review</em><br />
   <button class="button-cta" onclick="window.open('https://yizhezhu0925.github.io/equitac.github.io/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2511.07381v2','_blank')">PDF</button>
 </p>
@@ -154,7 +154,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong>
   </a><br />
    Haibo Zhao, Yu Qi, Boce Hu, <strong>Yizhe Zhu</strong>, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang*, Robert Platt* <br />
-  <em>RAL</em><br />
+  <em>IEEE Robotics and Automation Letters (IEEE RA-L）</em><br />
   <button class="button-cta" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
 </p>
