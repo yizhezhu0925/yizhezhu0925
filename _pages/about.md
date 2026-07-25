@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <strong>BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities</strong>
   </a><br />
   Yu Qi, Haibo Zhao, Ziyu Guo, Siyuan Ma, Ziyan Chen, Yaokun Han, Renrui Zhang, Zitiantao Lin, Shiji Xin, Yijian Huang, Kai Cheng, Peiheng Wang, Jiazheng Liu, Jiayi Zhang, <strong>Yizhe Zhu</strong>, Wenqing Wang, Yiran Qin, Xupeng Zhu, Haojie Huang, Lawson L.S. Wong<br />
-  <em>under review, 2026</em><br />
+  <em>ICML, 2026</em><br />
   <button class="button-cta" onclick="window.open('https://bear-official66.github.io/','_blank')">Project</button>
   <button class="button-cta" onclick="window.open('https://arxiv.org/pdf/2510.08759','_blank')">PDF</button>
 </p>
