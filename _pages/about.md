@@ -202,5 +202,6 @@ document.addEventListener("DOMContentLoaded", function() {
 <div style="clear: both;"></div>
 
 ## Education
-- (2024&nbsp;–&nbsp;present) M.S. in Robotics, Northeastern University, MA
-- (2020&nbsp;–&nbsp;2024) B.Eng. in Robotics, Xi'an Jiaotong-Liverpool University, China
+- (2026&nbsp;–&nbsp;present) Phd. in Ai and Robotics, University of Macau
+- (2024&nbsp;–&nbsp;2026) M.S. in Robotics, Northeastern University
+- (2020&nbsp;–&nbsp;2024) B.Eng. in Robotics, Xi'an Jiaotong-Liverpool University
