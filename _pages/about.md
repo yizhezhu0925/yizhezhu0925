@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Master Student in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, working with Professor [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/). My research explores data-efficient robot learning and closed-loop control for contact-rich manipulation, with an emphasis on equivariant representations for policy learning.
+I am a PhD student at the [University of Macau (UM)](https://www.um.edu.mo/), advised by Professor [Dian Wang](https://www.dianwang.io/). Previously, I was with the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at [Northeastern University](https://www.northeastern.edu/). My research explores data-efficient robot learning and closed-loop control for contact-rich manipulation.
 
 <p class="contact-links">
-  <a href="mailto:zhu.yizhe@northeastern.edu"><i class="far fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> /
+  <a href="mailto:yc68106@um.edu.mo"><i class="far fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> /
   <a href="https://scholar.google.com/citations?user=MhSyhtwAAAAJ&amp;hl"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a> /
   <a href="https://github.com/yizhezhu0925"><i class="fab fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a>
 </p>
